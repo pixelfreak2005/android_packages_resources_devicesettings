@@ -92,16 +92,16 @@
   <string name="hand_wave_silencer_summary">画面上で手を振って着信をサイレントにする</string>
   <!-- Flip to mute gesture -->
   <string name="flip_to_mute_title">裏返してミュート</string>
-  <string name="flip_to_mute_summary">携帯電話を裏向きにして通知と通話をサイレントにする</string>
+  <string name="flip_to_mute_summary">端末を裏向きにして通知と通話をサイレントにする</string>
   <!-- Do Not Disturb access -->
   <string name="dnd_access">この機能を使用するにはCMActionsにミュートへのアクセスを許可してください。</string>
   <!-- Lift to silence gesture -->
   <string name="lift_to_silence_title">持ち上げて着信音停止</string>
-  <string name="lift_to_silence_summary">携帯電話を持ち上げたときに着信音をサイレントにします。携帯電話が水平面にあった場合にのみ動作します。</string>
+  <string name="lift_to_silence_summary">端末を持ち上げたときに着信音をサイレントにします。端末が水平面にあった場合にのみ動作します。</string>
   <!-- Action toggles -->
   <string name="action_none">無効</string>
   <string name="action_launch_camera">カメラを起動</string>
-  <string name="action_torch">トーチを切り替える</string>
+  <string name="action_torch">ライトを切り替える</string>
   <!-- Feedback intensity -->
   <string name="feedback_intensity_title">反応バイブの強さ</string>
   <string name="feedback_intensity_summary">2回ひねりと2回チョップの動作の反応バイブの強さ</string>
@@ -117,7 +117,7 @@
   <!-- Button settings -->
   <string name="button_panel_title">追加のボタン</string>
   <string name="button_swap_title">ボタンを入れ替える</string>
-  <string name="button_swap_summary">アプリ履歴ボタンと戻るボタンの位置を入れ替える</string>
+  <string name="button_swap_summary">履歴ボタンと戻るボタンの位置を入れ替える</string>
   <!-- Fingerprint -->
   <string name="fingerprint_title">指紋</string>
   <string name="fingerprint_as_home_title">指紋センサーをホームボタンにする</string>

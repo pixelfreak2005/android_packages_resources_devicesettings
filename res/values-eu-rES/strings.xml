@@ -35,6 +35,7 @@
   <string name="touchscreen_c_gesture_summary">Marraztu \"C\" bat kamera abiatzeko</string>
   <string name="touchscreen_e_gesture_title">E-posta</string>
   <string name="touchscreen_e_gesture_summary">Marraztu \"e\" bat e-posta aplikazioa irekitzeko</string>
+  <string name="touchscreen_m_gesture_title">Mezularitza</string>
   <string name="touchscreen_s_gesture_title">Mezularitza</string>
   <string name="touchscreen_s_gesture_summary">Marraztu \"S\" bat mezularitza aplikazioa irekitzeko</string>
   <string name="touchscreen_v_gesture_title">Markatzailea</string>
@@ -114,4 +115,5 @@
   <string name="doze_settings_help_text">Ezaugarri hauek sentsoreen gertakizunak erabiltzen dituzte jakinarazpen argi bat pizteko. Sentsorea jakinarazpen bat jasotzean gaituko da, honi esker bateria erabilera murrizten da. Badago ere pantaila itzali eta berehala sentsorea pizteko aukera, honek bateria gehiago erabiliko du.</string>
   <!-- Button settings -->
   <!-- Fingerprint -->
+  <string name="fingerprint_as_home_summary">Erabili hatz-marken sentsorea hasiera-botoi gisa</string>
 </resources>
